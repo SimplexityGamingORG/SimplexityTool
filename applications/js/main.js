@@ -103,7 +103,7 @@
 				ingameNameText = 'Paladins Username';
 				break;
 				
-				case 'Counter-Strike':
+				case 'counter-strike':
 				ingameNameText = 'Steam Name';
 				break;
 			
