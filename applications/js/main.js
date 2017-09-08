@@ -91,24 +91,24 @@
 		
 		switch (selectedGame) {
             case 'black-desert-online':
-                ingameNameText = 'Ingame Name';
+                ingameNameText = 'Unique ID';
                 break;
             
 			case 'heroes-of-the-storm':
 			case 'overwatch':
-				ingameNameText = 'Battle.net Tag';
+				ingameNameText = 'Unique ID';
 				break;
 				
 			case 'paladins':
-				ingameNameText = 'Paladins Username';
+				ingameNameText = 'Unique ID';
 				break;
 				
 				case 'counter-strike':
-				ingameNameText = 'Steam Name';
+				ingameNameText = 'Unique ID';
 				break;
 			
 			default:
-				ingameNameText = 'Ingame Name';
+				ingameNameText = 'Unique ID';
 				break;
 		}
 		
