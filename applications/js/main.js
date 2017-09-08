@@ -137,7 +137,7 @@
 			var selectedGame = $gameSelect.val();
 			
 			// Update the label text and input placeholder for the ingame name
-			displayNewIngameNameText(SelectedGame);
+			displayNewIngameNameText(selectedGame);
 
 			// Hide form controls that are specifically there for another game
 			// Show form controls that are specifically there for the chosen game
